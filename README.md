@@ -1,3 +1,4 @@
+#<img src="banner.png" width="100%">
 # Comprehensive Analysis of Water Quality of Rapti River in Gorakhpur Region
 
 ## 📌 Project Overview
