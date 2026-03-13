@@ -8,7 +8,7 @@ This project focuses on the comprehensive analysis of the water quality of the R
 ## 🎯 Objectives
 
 * To analyze the physical and chemical properties of Rapti River water.
-* To evaluate water quality parameters such as pH, turbidity, dissolved oxygen, and BOD.
+* To evaluate water quality parameters such as pH, turbidity, Hardness, Alkalinity,  and Total Dissolved Solids.
 * To assess the pollution level and environmental impact on the river.
 * To suggest measures for improving water quality.
 
